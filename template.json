@@ -1,0 +1,94 @@
+{
+    "PROTOCOL SUMMARY": [
+        "Protocol Synopsis", 
+        "Trial Schema", 
+        "Schedule of Activities"
+    ],
+    "INTRODUCTION": [
+        "Purpose of Trial", 
+        "Summary of Benefits and Risks"
+    ],
+    "TRIAL OBJECTIVES, ENDPOINTS AND ESTIMANDS": [
+        "{Primary/Secondary/Exploratory} Objective + Associated Endpoint {and Estimand}"
+    ],
+    "TRIAL DESIGN": [
+        "Description of Trial Design",
+        "Rationale for Trial Design",
+        "Access to Trial Intervention After End of Trial",
+        "Start of Trial and End of Trial"
+    ],
+    "TRIAL POPULATION": [
+        "Selection of Trial Population",
+        "Rationale for Trial Population",
+        "Inclusion Criteria",
+        "Exclusion Criteria",
+        "Lifestyle Considerations",
+        "Screen Failures"
+    ],
+    "TRIAL INTERVENTION AND CONCOMITANT THERAPY": [
+        "Description of Trial Intervention",
+        "Rationale for Trial Intervention",
+        "Dosing and Administration",
+        "Treatment of Overdose",
+        "Preparation, Handling, Storage and Accountability",
+        "Participant Assignment, Randomisation and Blinding",
+        "Trial Intervention Compliance",
+        "Concomitant Therapy"
+    ],
+    "DISCONTINUATION OF TRIAL INTERVENTION AND PARTICIPANT WITHDRAWAL FROM TRIAL": [
+        "Discontinuation of Trial Intervention",
+        "Participant Withdrawal from the Trial",
+        "Lost to Follow-Up",
+        "Trial Stopping Rules"
+    ],
+    "TRIAL ASSESSMENTS AND PROCEDURES": [
+        "Screening/Baseline Assessments and Procedures",
+        "Efficacy Assessments and Procedures",
+        "Safety Assessments and Procedures",
+        "Adverse Events and Serious Adverse Events",
+        "Pregnancy and Postpartum Information",
+        "Medical Device Product Complaints for Drug/Device Combination Products",
+        "Pharmacokinetics",
+        "Genetics",
+        "Biomarkers",
+        "Immunogenicity Assessments",
+        "Medical Resource Utilisation and Health Economics"
+    ],
+    "STATISTICAL CONSIDERATIONS": [
+        "Analysis Sets",
+        "Analyses Supporting Primary Objective(s)",
+        "Analysis Supporting Secondary Objective(s)",
+        "Analysis of Exploratory Objective(s)",
+        "Safety Analyses",
+        "Other Analyses",
+        "Interim Analyses",
+        "Sample Size Determination",
+        "Protocol Deviations"
+    ],
+    "GENERAL CONSIDERATIONS: REGULATORY, ETHICAL, AND TRIAL OVERSIGHT": [
+        "Regulatory and Ethical Considerations",
+        "Committees",
+        "Informed Consent Process",
+        "Data Protection",
+        "Early Site Closure or Trial Termination"
+    ],
+    "GENERAL CONSIDERATIONS: RISK MANAGEMENT AND QUALITY ASSURANCE": [
+        "Quality Tolerance Limits",
+        "Data Quality Assurance",
+        "Source Data"
+    ],
+    "APPENDIX: ADVERSE EVENTS AND SERIOUS ADVERSE EVENTS – DEFINITIONS, SEVERITY, AND CAUSALITY": [
+        "Further Details and Clarifications on the AE Definition",
+        "Further Details and Clarifications on the SAE Definition",
+        "Severity",
+        "Causality"
+    ],
+    "APPENDIX: DEFINITIONS AND SUPPORTING OPERATIONAL DETAILS": [
+        "Contraception and Pregnancy Testing",
+        "Clinical Laboratory Tests",
+        "Country/Region-Specific Differences",
+        "Prior Protocol Amendments"
+    ],
+    "APPENDIX: GLOSSARY OF TERMS": [],
+    "APPENDIX: REFERENCES": []
+}
